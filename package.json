@@ -1,0 +1,27 @@
+{
+  "name": "jerry-bot",
+  "version": "0.1.0",
+  "description": "Jerry Bot for Discord",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ejs": "^3.1.5",
+    "express": "^4.15.2",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
