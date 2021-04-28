@@ -21,7 +21,8 @@ const helpArtifact = {
       name: "Examples"
     }
   ],
-  image: "https://i.imgur.com/wSTFkRM.png"
+  image:
+    "https://cdn.discordapp.com/attachments/540252347306082316/836763661208387665/Screen_Shot_2021-04-27_at_8.39.44_PM.png"
 };
 
 const embedCommands = {
