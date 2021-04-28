@@ -18,7 +18,8 @@ const helpArtifact = {
       `
     },
     {
-      name: "Examples"
+      name: "Examples",
+      value: ""
     }
   ],
   image:
