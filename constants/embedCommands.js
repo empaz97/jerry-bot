@@ -19,7 +19,7 @@ const helpArtifact = {
     },
     {
       name: "Examples",
-      value: ""
+      value: "Here are some examples on my use:"
     }
   ],
   image:
