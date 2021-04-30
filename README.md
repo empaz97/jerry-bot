@@ -2,17 +2,19 @@
 
 Jerry-Bot is a discord bot which is here to make your polling experiences better!
 
-Jerry-Boy is created and maintained by Emerson
+Jerry-Bot is created and maintained by Emerson
 
 Jerry-Bot Profile Pic done by the lovely Lehenne
 
 # Polling
 
+When polling you do not have to use Jerry-Bot's name. Instead make sure you start your command with `!poll` or `/poll`
+
 ## Making a Poll
 
 When you trigger Jerry, they will react to your poll with all of the emoji options to make it easier for people to join in on your poll.
 
-Start by typing \`!poll\` or \`/poll\` followed by your question. Jerry will automatically react with a positive and negative emoji. If you want to supply options, every subsequent line should start with an emoji option.
+Start by typing `!poll` or `/poll` followed by your question. Jerry will automatically react with a positive and negative emoji. If you want to supply options, every subsequent line should start with an emoji option.
 
 Note: Please make sure all emojis you use are available in the current server.
 
@@ -21,6 +23,13 @@ Note: Please make sure all emojis you use are available in the current server.
 COMING SOON!
 
 # Command Dump
+
+All of the following commands must be prefixed or suffixed with any of Jerry-Bot's names:
+
+- jerry
+- jerries
+- jerrys
+- em400
 
 ## Text Commands
 
